@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# React
+frontend/node_modules/
+
+# Environment
+.env
+
+# Database
+*.db
+
+# Model files
+*.pt
+
+# Videos
+videos/
+
+# VS Code
+.vscode/
